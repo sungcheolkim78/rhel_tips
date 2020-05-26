@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/9fcdb06/
+.vimrc or ./config/nvim/init.vim	nvim.md	/^## .vimrc or .\/config\/nvim\/init.vim$/;"	s
+CUDA	cuda.md	/^# CUDA$/;"	c
+CUDA toolkit 10.0	cuda.md	/^## CUDA toolkit 10.0$/;"	s
+CUDA toolkit 9.0	cuda.md	/^## CUDA toolkit 9.0$/;"	s
+CUDA toolkit 9.2	cuda.md	/^## CUDA toolkit 9.2$/;"	s
+Caffe	caffe.md	/^# Caffe$/;"	c
+FFMPEG and libav	ffmpeg.md	/^# FFMPEG and libav$/;"	c
+IBM Notes	ibm_note.md	/^# IBM Notes$/;"	c
+Nvidia driver	cuda.md	/^## Nvidia driver$/;"	s
+Server information	ibm_note.md	/^## Server information $/;"	s
+Useful package list	python3.md	/^## Useful package list$/;"	s
+imagej	imagej.md	/^# imagej$/;"	c
+install CPU version tensorflow	tensorflow.md	/^## install CPU version tensorflow$/;"	s
+install pyimagej	imagej.md	/^## install pyimagej$/;"	s
+jupyter notebook	jupyter.md	/^# jupyter notebook$/;"	c
+jupyter notebook config	jupyter.md	/^## jupyter notebook config$/;"	s
+magma	magma.md	/^# magma$/;"	c
+nvim (Neovim)	nvim.md	/^# nvim (Neovim)$/;"	c
+opencv	opencv.md	/^# opencv$/;"	c
+pkg-config	cuda.md	/^## pkg-config$/;"	s
+python3	python3.md	/^# python3$/;"	c
+pytorch	pytorch.md	/^# pytorch$/;"	c
+remove all installed packages	cuda.md	/^## remove all installed packages$/;"	s
+rhel_tips	README.md	/^# rhel_tips$/;"	c
+show video in jupyter notebook	jupyter.md	/^## show video in jupyter notebook$/;"	s
+tensorflow	tensorflow.md	/^# tensorflow$/;"	c
+tsne-cuda	cuda.md	/^## tsne-cuda$/;"	s
+turn on apache server	jupyter.md	/^## turn on apache server$/;"	s
+turn on the firewall	jupyter.md	/^## turn on the firewall$/;"	s
+using with pyenv	opencv.md	/^## using with pyenv$/;"	s
+what is maven?	imagej.md	/^## what is maven?$/;"	s
